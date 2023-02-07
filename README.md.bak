@@ -1,4 +1,4 @@
-## Handled 10 currencies listed below and these currencies data will be save in H2 database
+## Handled 10 currencies listed below
 
 AUD = https://api.statistiken.bundesbank.de/rest/download/BBEX3/D.AUD.EUR.BB.AC.000?format=csv&lang=en
 BGN = https://api.statistiken.bundesbank.de/rest/download/BBEX3/D.BGN.EUR.BB.AC.000?format=csv&lang=en
